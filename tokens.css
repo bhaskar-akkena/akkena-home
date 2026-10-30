@@ -1,0 +1,24 @@
+:root {
+  /* Editorial Dark Palette */
+  --bg-main: #09090b;
+  --bg-surface: #121215;
+  --bg-surface-hover: #18181c;
+  
+  --border-hairline: rgba(255, 255, 255, 0.08);
+  --border-hover: rgba(255, 255, 255, 0.2);
+
+  --text-primary: #f4f4f5;
+  --text-secondary: #a1a1aa;
+  --text-muted: #85858e;
+  
+  --accent-white: #ffffff;
+  --accent-glow: rgba(255, 255, 255, 0.05);
+
+  /* Typography */
+  --font-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* Spacing & Radii */
+  --radius-card: 8px;
+  --radius-pill: 9999px;
+}
